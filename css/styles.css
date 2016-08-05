@@ -17,14 +17,13 @@
   margin: auto;
   float: right;
   list-style: none;
-  border: solid black 2px;
   text-align: center;
   width: 19.5%;
 }
 
 .col-xs-9 {
   width: 80%;
-  border: solid black 2px;
+  border-right: solid black 2px;
   text-align: center;
 
 
