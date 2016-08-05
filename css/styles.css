@@ -43,9 +43,15 @@
   font-family: fantasy;
 }
 
-.col-xs-3 h4 {
+.col-xs-3 h2 {
   font-family: fantasy;
   text-align: center;
   color: #2da0ba;
 
+}
+
+.col-xs-3 h4 {
+  text-align: center;
+  color: #16505d;
+  font-family: fantasy;
 }
