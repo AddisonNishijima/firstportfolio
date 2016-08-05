@@ -1,0 +1,31 @@
+.header {
+  font-family:fantasy;
+  font-size: 2em;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  height: 150px;
+  width: 100%;
+  border: solid black 2px;
+}
+
+.projects {
+  padding-top: 20px;
+  margin: auto;
+  float: right;
+  list-style: none;
+  border: solid black 2px;
+  text-align: center;
+  width: 19.5%;
+}
+
+.projects ul {
+  list-style: none;
+  list-style-position: inherit;
+}
+
+.about {
+  width: 80%;
+  border: solid black 2px;
+
+}
