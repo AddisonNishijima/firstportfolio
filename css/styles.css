@@ -25,7 +25,6 @@
   width: 80%;
   border-right: solid black 2px;
   text-align: center;
-
 }
 
 .col-xs-9 h2 {
@@ -34,14 +33,12 @@
   color: #2da0ba;
   text-decoration: underline;
   padding-bottom: 10px;
-
 }
 
 .col-xs-9 h4 {
   text-align: center;
   color: #16505d;
   font-family: fantasy;
-
 }
 
 .col-xs-3 h2 {
@@ -49,7 +46,6 @@
   text-align: center;
   color: #2da0ba;
   padding-bottom: 10px;
-
 }
 
 .col-xs-3 h4 {
