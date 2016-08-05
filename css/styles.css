@@ -12,7 +12,7 @@
   color: white;
 }
 
-.col-xs-2 {
+.col-xs-3 {
   padding-top: 20px;
   margin: auto;
   float: right;
@@ -22,14 +22,15 @@
   width: 19.5%;
 }
 
-.col-xs-10 {
+.col-xs-9 {
   width: 80%;
   border: solid black 2px;
   text-align: center;
 
+
 }
 
-.col-xs-10 h2 {
+.col-xs-9 h2 {
   font-family: fantasy;
   text-align: center;
   color: #2da0ba;
@@ -37,13 +38,13 @@
 
 }
 
-.col-xs-10 h4 {
+.col-xs-9 h4 {
   text-align: center;
   color: #16505d;
   font-family: fantasy;
 }
 
-.col-xs-2 h4 {
+.col-xs-3 h4 {
   font-family: fantasy;
   text-align: center;
   color: #2da0ba;
