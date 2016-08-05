@@ -29,6 +29,6 @@ _Both HTML and CSS were used. Bootstrap was utilized as well._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*GPL*
 
 Copyright (c) 2016 **_Addison Nishijima_**
