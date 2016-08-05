@@ -1,12 +1,15 @@
 .header {
-  font-family:fantasy;
-  font-size: 2em;
-  text-align: center;
   background-color: #2da0ba;
-  color: white;
   height: 150px;
   width: 100%;
   border: solid black 2px;
+}
+
+.header h1 {
+  font-family:fantasy;
+  font-size: 5em;
+  text-align: center;
+  color: white;
 }
 
 .col-xs-2 {
@@ -19,11 +22,6 @@
   width: 19.5%;
 }
 
-.col-xs-2 ul {
-  list-style: none;
-  list-style-position: inherit;
-}
-
 .col-xs-10 {
   width: 80%;
   border: solid black 2px;
@@ -31,9 +29,22 @@
 
 }
 
-.acol-xs-10 h2 {
-  font-family:fantasy;
-  font-stretch: semi-expanded;
+.col-xs-10 h2 {
+  font-family: fantasy;
+  text-align: center;
+  color: #2da0ba;
+  text-decoration: underline;
+
+}
+
+.col-xs-10 h4 {
+  text-align: center;
+  color: #16505d;
+  font-family: fantasy;
+}
+
+.col-xs-2 h4 {
+  font-family: fantasy;
   text-align: center;
   color: #2da0ba;
 
